@@ -1,0 +1,28 @@
+.titulo {
+    color: blue;
+    text-align: center;
+}
+
+.img {
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+.corBackground {
+    background-color: white;
+}
+
+.colorTextFundo {
+    background-color: #E6CDEB;
+}
+
+.colorLetras {
+    color: black;
+    background-color: white;
+}
+
+.colorButtonBackground {
+    background-color: black;
+}
